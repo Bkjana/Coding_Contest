@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+*{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.card:hover{
+    transform: scale(1.2,1.2);
+    z-index: 1;
+}
+.dropdown-item{
+    cursor: pointer;
+}
